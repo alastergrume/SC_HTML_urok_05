@@ -1,0 +1,37 @@
+table{
+    border-collapse: collapse;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+th, td{
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 0.5em 0;
+}
+.col-1{
+    background-color: rgba(255, 255, 0, 0.212);
+    width: 100px;
+}
+.col-2{
+    background-color: rgba(255, 255, 0, 0.212);
+    width: 20px;
+}
+.col-3{
+    background-color: rgba(137, 43, 226, 0.329);
+}
+.col-4{
+    background-color: rgba(255, 0, 0, 0.377);
+}
+.col-5{
+    background-color: rgba(0, 128, 0, 0.384);
+}
+.col-6{
+    background-color: rgba(95, 158, 160, 0.322);
+}
+.tr3{
+    font-weight: bolder;
+}
+.tr2{
+    font-style: italic;
+    font-size: small;
+}
